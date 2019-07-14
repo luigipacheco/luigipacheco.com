@@ -8,7 +8,7 @@ header_pages:
 
 footer: 'The Cake is a lie'
 
-style: light # dark (default) or light
+style: dark # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
