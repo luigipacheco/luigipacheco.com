@@ -5,7 +5,7 @@ permalink: luigipacheco
 ---
 
 # About Me  
-My real name is Luis Pacheco. I'm an architect graduated from La Salle Bajío in León Mexico with a Master in Robotics and Advanced Manufacturing from IAAC.
+My real name is Luis Pacheco. I'm an architect graduated from La Salle Bajío in León Mexico with a Master in Robotics and Advanced Manufacturing from [IAAC](http://www.iaac.net) in Barcelona.
 I been involved with DIY movement since 2011 when I figured out I hated building architectural models so instead I assembled a 3D printer to make them for me. This lead me to co-found [MakerMex](http://www.makermex.com) (2012) a digital manufacturing and robotics company with Sam and Juan Carlos. I been CEO of MakerMex since then.
 
 # Makermex projects:
