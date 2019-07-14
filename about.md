@@ -20,10 +20,9 @@ IAAC MRAC projects:
   -Laser Projector (Hardware and software)
   -Pellet Extruder (Hardware)
   -Construction Robotic Assistant (Hardware and software)
-  [![CRA](http://img.youtube.com/vi/yIkp-MR9rDQ/0.jpg)](http://www.youtube.com/watch?v=yIkp-MR9rDQ)
 
 Other projects:
-  -Mini Maker Faire Bajío (Lead Organizer)
+  -[Mini Maker Faire Bajío (Lead Organizer)](https://www.bajio.makerfaire.com)
 
 Key Strengths:
   -Self-learning
@@ -32,7 +31,7 @@ Key Strengths:
   -Strategic thinking
   -Resourcefull
   -Intuitive
- 
+
 Technical familiarities
   -Blender
   -OpenSCAD
