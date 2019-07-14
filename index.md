@@ -6,4 +6,4 @@ permalink: /
 
 # Hello
 
-I'm just testing how to configure 
+Hello you made it to my site!
