@@ -15,10 +15,10 @@ I have been involved in the DIY movement since 2011 when I figured out I hated b
   - [MakerLab León](http://www.makerlableon.com)
 
 # IAAC MRAC projects:
-  - [AR Laser Projector] (http://www.iaacblog.com/programs/ar-laser-projector/)
-  - [Construction Robotic Assistant] (http://www.iaacblog.com/programs/construction-robotic-assistant-future-for-robotic-collaborative-fabrication/)
+  - [AR Laser Projector](http://www.iaacblog.com/programs/ar-laser-projector/)
+  - [Construction Robotic Assistant](http://www.iaacblog.com/programs/construction-robotic-assistant-future-for-robotic-collaborative-fabrication/)
   -  [An exploration on double-curved wooden panel fabrication](http://www.iaacblog.com/programs/exploration-possibility-double-curved-wooden-panels-fabrication/)
-  - [Path correction and obstacle detection for 3D printing] (http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)
+  - [Path correction and obstacle detection for 3D printing](http://www.iaacblog.com/programs/path-correction-obstacle-detection-3d-printing/)
   - [Plastic (pellet) Injection Tool](http://www.iaacblog.com/programs/injection-tool/)
 
 # Other projects:
