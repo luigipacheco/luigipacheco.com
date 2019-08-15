@@ -44,6 +44,7 @@ I have been involved in the DIY movement since 2011 when I figured out I hated b
   - Python
   - Arduino
   - Javascript
+  - Git
   - Autocad/LibreCAD
   - Image Editing software
   - Vector graphics editor software
